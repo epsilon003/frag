@@ -58,12 +58,12 @@ chroma.sqlite3
 ollama_models/
 
 # Document storage
-documents/
-uploads/
-data/
-*.pdf
-*.docx
-*.txt
+#documents/
+#uploads/
+#data/
+#*.pdf
+#*.docx
+#*.txt
 
 # Logs
 logs/
